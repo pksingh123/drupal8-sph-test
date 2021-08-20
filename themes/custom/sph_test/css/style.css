@@ -1,0 +1,21 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+ .region-sidebar-second{
+    padding: 0px; 
+    margin-bottom: 0px; 
+    background-color: none; 
+    border: none; 
+    border-radius: none;
+    -webkit-box-shadow: none; 
+    box-shadow: none;
+ }
+ .footer{
+  margin-top: 50px;
+  background: #e7e7e7;
+ }
+ .region-footer{
+  text-align: center;
+  padding: 25px;
+ }

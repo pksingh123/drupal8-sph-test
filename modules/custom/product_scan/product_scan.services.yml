@@ -1,0 +1,4 @@
+services:
+  product_scan.qrcode:
+    class: \Drupal\product_scan\Services\ProductQrcode
+    arguments: []
