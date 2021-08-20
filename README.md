@@ -1,7 +1,5 @@
 "# drupal8-sph-test" 
 
-Login credential:
-username: admin
-pwd: admin@123
+Login credential: admin/admin@123
 
 
